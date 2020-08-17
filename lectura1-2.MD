@@ -3,6 +3,8 @@
 
 # FunkSVD Commentary
 
+*Ignacio Loyola*
+
 
 The author embarked on the task of predicting the ratings of a *very* sparse matrix of users-items, specifically, eighty five empty cells for each given rating. His attack on the problem can be separated in two parts, the first, which involved calculating the average rating offset for every user taking into consideration the users which may have very little ratings and the expectation of what might be in the black spaces, and the second, which has to do with modelling the problem to make it more simple by applying singular value decomposition (SVD). These two aspects of the problem are not really that separated, though, because the expected value of blank spaces is computed to make the SVD return a better result, so we might say the central technique in use here is the way the problem is modelled using this SVD.
 
