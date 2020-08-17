@@ -16,3 +16,7 @@ Finally, on the experimental side of things, the dataset is not realistic accord
 
 
 I conclude that more experiments must be realized with realistically shaped datasets, but also taking into consideration the possible problems that I have stated.
+
+### References
+
+Schafer J.B., Frankowski D., Herlocker J., Sen S. (2007) Collaborative Filtering Recommender Systems. In: Brusilovsky P., Kobsa A., Nejdl W. (eds) The Adaptive Web. Lecture Notes in Computer Science, vol 4321. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-540-72079-9_9
