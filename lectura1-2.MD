@@ -15,3 +15,8 @@ What shocks at first is the simplicity with which the author seems to tackle the
 
 
 What leaves me skeptical, though, is the need and opportunity to further exploit the idea behind the model. A certain user might or might not like certain features of a movie, but do they recognize this feature as the same as other users? If Star Wars is all-action to a user, it might not be the case to another, and a user might spot the action component of a certain movie but not in other. The score the user gives to a certain feature is something I am in accord with, but maybe one could consider the *obviousness* with which a user exhibits certain feature and the *sensitivity* certain user has for identifying those features. Why could this give us any improvement? Schafer et al. mentions that the users with more esoteric tastes are often *the most valuable* to recommeneder systems, thus if we can have an extra glimpse at the users with a more sensible and developed taste, then it just might prove to be a worthy undertaking.
+
+
+### References
+
+Schafer J.B., Frankowski D., Herlocker J., Sen S. (2007) Collaborative Filtering Recommender Systems. In: Brusilovsky P., Kobsa A., Nejdl W. (eds) The Adaptive Web. Lecture Notes in Computer Science, vol 4321. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-540-72079-9_9
