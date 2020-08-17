@@ -1,5 +1,6 @@
 ## Commentary on Item-based collaborative filtering recommendation algorithms by Sarwar et al.
 
+*Ignacio Loyola*
 
 This paper explains a new approach of tackling the challenge of providing the millions of users of sites with hundreds of thousands of items with accurate recommendations at a minimum computation cost using item-based collaborative filtering recommendation systems. This new approach consists of using a much smaller number of items than available, namely, the top k items by similarity to each item, where k is defined to be the model size, thus the space complexity of storing all similarities would be O(n * k) which is much smaller and convenient than O(n * n).
 
